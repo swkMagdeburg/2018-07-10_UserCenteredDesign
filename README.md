@@ -1,2 +1,7 @@
 # 2018-07-10_UserCenteredDesign
-Folien und Hand-out zum Vortrag "Wie nutzerzentriertes Design das (Entwickler-)Leben vereinfacht"
+
+Folien und Hand-Outs zum Vortrag "Wie nutzerzentriertes Design das (Entwickler-)Leben vereinfacht"
+
+Abstract:
+  https://www.softwerkskammer.org/activities/magdeburg_treffen_59
+  
